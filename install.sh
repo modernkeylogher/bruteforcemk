@@ -7,3 +7,6 @@ apt install nano
 apt install toilet
 gem install lolcat
 pip install requests
+apt update
+apt upgrade
+
